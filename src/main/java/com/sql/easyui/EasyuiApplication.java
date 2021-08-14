@@ -8,7 +8,6 @@ public class EasyuiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EasyuiApplication.class, args);
-		System.out.print(false);	
 		}
 
 }
